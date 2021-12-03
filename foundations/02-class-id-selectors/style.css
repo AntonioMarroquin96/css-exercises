@@ -1,0 +1,17 @@
+.OddNumberedElement {
+    background-color: rgb(165, 34, 67);
+    font-family: Verdana , sans-serif;
+}
+.ExtraFormatting {
+    font-size: 24px;
+}
+#SecondElement {
+    color: blue;
+    font-size: 36px;
+}
+
+#FourthElement{
+    background-color: rgb(150, 214, 150);
+    font-size: 24px;
+    font-weight: bold;
+}
